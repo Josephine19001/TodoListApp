@@ -1,0 +1,24 @@
+{
+  "name": "todolistapp",
+  "version": "1.0.0",
+  "description": "a simple app for todolist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josephine19001/TodoListApp.git"
+  },
+  "author": "Josephine Gyamera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josephine19001/TodoListApp/issues"
+  },
+  "homepage": "https://github.com/Josephine19001/TodoListApp#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
